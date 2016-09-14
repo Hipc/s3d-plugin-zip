@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "s3d-plugin-zip",
+      "/Users/HIPC/Work/test"
+    ]
+  ],
+  "_cnpm_publish_time": 1460997966045,
+  "_from": "s3d-plugin-zip@*",
+  "_id": "s3d-plugin-zip@0.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/s3d-plugin-zip",
+  "_nodeVersion": "4.4.2",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/s3d-plugin-zip-0.0.2.tgz_1460997964712_0.7386705651879311"
+  },
+  "_npmUser": {
+    "email": "sslebedev@saber3d.ru",
+    "name": "s3d"
+  },
+  "_npmVersion": "2.15.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "s3d-plugin-zip",
+    "raw": "s3d-plugin-zip",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/s3d-plugin-zip/download/s3d-plugin-zip-0.0.2.tgz",
+  "_shasum": "f1cc3bf275b800e0e615eb5e87c17ce0bc1500f8",
+  "_shrinkwrap": null,
+  "_spec": "s3d-plugin-zip",
+  "_where": "/Users/HIPC/Work/test",
+  "author": {
+    "name": "s3d_sslebedev"
+  },
+  "cordova": {
+    "id": "s3d-cordova-plugin-zip",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "\r\n      Extention for cordova-plugin-zip to extract password-protected archives. Test, not well tested etc.\r\n  ",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "f1cc3bf275b800e0e615eb5e87c17ce0bc1500f8",
+    "size": 207253,
+    "tarball": "http://registry.npm.taobao.org/s3d-plugin-zip/download/s3d-plugin-zip-0.0.2.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.3.0"
+    }
+  ],
+  "keywords": [
+    "cordova-android",
+    "cordova-ios",
+    "ecosystem:cordova"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "s3d",
+      "email": "sslebedev@saber3d.ru"
+    }
+  ],
+  "name": "s3d-plugin-zip",
+  "optionalDependencies": {},
+  "publish_time": 1460997966045,
+  "scripts": {},
+  "version": "0.0.2"
+}
